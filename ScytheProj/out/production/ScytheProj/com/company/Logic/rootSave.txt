@@ -1,0 +1,25 @@
+State{
+null
+0
+Variables{
+0
+4
+6
+7
+[2]
+2
+[3, 4]
+[3, 4]
+0
+0
+0
+0
+PlayerMat{
+[false, false, false, false]
+[false, false, false, false]
+[false, false, false, false, false, false]
+[false, false, false, false, false, false]
+[0, 0, 2, 2, 3, 1, 1]
+}
+}
+}
